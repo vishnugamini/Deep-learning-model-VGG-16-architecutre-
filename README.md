@@ -30,7 +30,7 @@ This repository contains a deep learning model that can identify and predict 80 
    ```bash
    git clone https://github.com/vishnugamini/Deep-learning-model-to-detect-animals.git
    
-2. Install the required dependencies.
+2. Install the required dependencies if needed.
 
 3. Place the input image you want to predict in the repository directory.
 
