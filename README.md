@@ -4,6 +4,7 @@ This repository contains a deep learning model that can identify and predict 80 
 
 ## Model Details
 
+- This model is capable of detecting and predicting 80 different varieties of animals.
 - The model has been developed using deep learning techniques.
 - It has been trained on a dataset consisting of images of various animals.
 - The model has achieved a training accuracy of 90%.
