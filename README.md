@@ -7,7 +7,16 @@ This repository contains a deep learning model that can identify and predict 80 
 - This model is capable of detecting and predicting 80 different varieties of animals.
 - The model has been developed using deep learning techniques.
 - It has been trained on a dataset consisting of images of various animals.
-- The model has achieved a training accuracy of 90%.
+
+
+## Model Architecture
+
+- The model architecture used in this project is the VGG-16 architecture.
+- The VGG-16 architecture is a widely-used convolutional neural network architecture known for its excellent performance in image classification tasks.
+
+## Model Accuracy
+
+- The model has achieved a training accuracy of 90% on the training set.
 
 ## Repository Contents
 
