@@ -16,7 +16,7 @@ This repository contains a deep learning model that can identify and predict 80 
 
 ## Model Accuracy
 
-- The model has achieved a training accuracy of 90% on the training set.
+- The model has achieved a training accuracy of 88% on the training set.
 
 ## Repository Contents
 
